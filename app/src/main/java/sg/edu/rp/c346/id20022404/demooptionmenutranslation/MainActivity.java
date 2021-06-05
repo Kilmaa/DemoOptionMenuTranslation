@@ -32,10 +32,10 @@ public class MainActivity extends AppCompatActivity {
 
         if (id == R.id.EnglishSelection) {
             tvTranslatedText.setText("Hello");
-            tvTranslatedText.setText("Bye");
+            tvTranslatedText2.setText("Bye");
         } else if (id == R.id.italianSelection) {
             tvTranslatedText.setText("Ciao");
-            tvTranslatedText.setText("Addio");
+            tvTranslatedText2.setText("Addio");
         }
 
         return super.onOptionsItemSelected(item);
