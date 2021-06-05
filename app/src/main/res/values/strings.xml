@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo Option Menu Translation</string>
+    <string name="text1">Hello</string>
+    <string name="text2">Bye</string>
 </resources>
